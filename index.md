@@ -167,7 +167,7 @@ status: ready # draft / ready / archived
 | 概要       | カルスト地形の高原  |
 | 歩行距離   | 約5.0km             |
 | 高低差     | 累計登攀約600m      |
-| 予定時期   | 2025-10-13 (月・祝) |
+| 実施日     | 2025-10-13 (月・祝) |
 
 ![通行止め情報](./img/ryozen_yama_deadend_map.png)
 
