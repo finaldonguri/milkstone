@@ -10,7 +10,7 @@ status: ready # draft / ready / archived
 
 
 ![高室山](./img/251013takamuroyama02.jpg)
-  ▲高室山山頂
+▲高室山山頂
 
 #### 更新履歴
 - [x] v1.1 日程決定、装備計画更新（2025-10-10）
@@ -36,7 +36,7 @@ status: ready # draft / ready / archived
 | 予定時期   | 2025-10-13 (月・祝) 雨天中止 |
 
 ![霊仙山](https://www.yamareco.com/uploads/thumbs/6973.jpg)
-  ▲霊仙山
+▲霊仙山
 
 
 ### 参加者・連絡先
@@ -170,8 +170,7 @@ status: ready # draft / ready / archived
 | 実施日     | 2025-10-13 (月・祝) |
 
 ![通行止め情報](./img/ryozen_yama_deadend_map.png)
-
-  ▲榑ヶ畑登山口アプローチ道通行止め箇所
+▲榑ヶ畑登山口アプローチ道通行止め箇所
 
 ### 参加者
 
@@ -206,14 +205,14 @@ status: ready # draft / ready / archived
 
 #### 地域概念図
 ![MAP](./img/takamuroyama_location.png)
-  ▲広域図（高室山）
+▲広域図（高室山）
 
 
 ![高室山](./img/takamuroyama_map.png)
-  ▲高室山ルート図（白点線は10秒）
+▲高室山ルート図（白点線は10秒）
 
 ![高室山ルート断面図](./img/takamuroyama_ascend.png)
-  ▲高室山標高差断面図
+▲高室山標高差断面図
 
 [国土地理院地形図(クリックで開きます)](https://maps.gsi.go.jp/#12/35.221082/136.352692/&base=std&ls=std&disp=1&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1)
 
@@ -261,22 +260,22 @@ status: ready # draft / ready / archived
 ### アルバム
 
 ![山頂の少し手前、カルスト高原地形の始まり。標高約750m](./img/251013takamuroyama01.jpg)
-  ▲山頂の少し手前、カルスト高原地形の始まり。標高約750m
+▲山頂の少し手前、カルスト高原地形の始まり。標高約750m
 
 ![▲山頂からの眺め。南東（琵琶湖）方向](./img/251013takamuroyama02.jpg)
-  ▲山頂からの眺め。南西（琵琶湖）方向
+▲山頂からの眺め。南西（琵琶湖）方向
 
 ![山頂からの眺め（北方向）](./img/251013takamuroyama03.jpg)
-  ▲山頂からの眺め（北方向）。正面が霊仙山、奥に少し見えるのが伊吹山
+▲山頂からの眺め（北方向）。正面が霊仙山、奥に少し見えるのが伊吹山
 
 ![01](./img/251013takamuroyama04.jpg)
-  ▲山頂から西方向。南彦根・甲良・豊郷の市街と琵琶湖、奥に比良山系
+▲山頂から西方向。南彦根・甲良・豊郷の市街と琵琶湖、奥に比良山系
 
 ![林道との交差点](./img/251013takamuroyama05.jpg)
-  ▲標高637m付近の[林道との交差点](https://maps.gsi.go.jp/#16/35.217602/136.347392/&base=std&ls=std&disp=1&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1)。「陳屋」は「陣屋」の誤りか（詳細不明）
+▲標高637m付近の[林道との交差点](https://maps.gsi.go.jp/#16/35.217602/136.347392/&base=std&ls=std&disp=1&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1)。「陳屋」は「陣屋」の誤りか（詳細不明）
 
 ![ヤマシャクヤクの実](./img/251013takamuroyama06.jpg)
-  ▲ヤマシャクヤクの実。初めて見た
+▲ヤマシャクヤクの実。初めて見た
 
 
 
