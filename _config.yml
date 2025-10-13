@@ -3,3 +3,8 @@ description:
 title: milkstone
 author:
   name: " "
+defaults:
+  - scope:
+      path: ""  # すべてのページに適用
+    values:
+      robots: "noindex, nofollow"
