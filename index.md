@@ -9,7 +9,7 @@ status: ready # draft / ready / archived
 # ~~霊仙山~~高室山日帰り登山
 
 
-![高室山](https://www.kawasaki1ban.com/wp-content/uploads/2020/03/2009_zrx1200daeg_zr1200d_06-07.jpg)
+![高室山](./img/251013takamuroyama02.jpg)
 
 ▲高室山山頂
 
